@@ -4,7 +4,7 @@ import styled from 'styled-components';
 
 // images
 import MainLogo from '../images/logo.png';
-import MainCoverImage from '../images/restaurant-image.jpg';
+import MainCoverImage from '../images/main-cover-image.png';
 
 const HeaderWrapper = styled.div`
   display: flex;
